@@ -1,4 +1,4 @@
-# https://www.codegrepper.com/code-examples/ruby/append+to+list+ruby
+# https://www.testdome.com/questions/ruby/file-owners/35596?visibility=1&skillId=6
 
 # accepts has with owner name for each file
 # returns hash with array of file names for each owner
